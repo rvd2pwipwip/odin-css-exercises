@@ -1,0 +1,23 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+}
+
+.odd {
+  background-color: #FFA7A7;
+}
+
+.cooler {
+  font-size: 36px;
+}
+
+#two {
+  font-size: 48px;
+  color: #0000ff;
+}
+
+#four {
+  background-color: #adff2f;
+  font-weight: 900;
+  font-size: 32px;
+}
